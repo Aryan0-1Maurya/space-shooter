@@ -4,7 +4,7 @@ Embark on an intergalactic adventure with Space Shooter, a thrilling game of spa
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/space-shooter/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/space-shooter/) 🕹️
 
 ## About the Game
 
